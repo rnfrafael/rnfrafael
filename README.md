@@ -1,6 +1,6 @@
-printf("Olá, sou Rafael Fontenele,<br>");
+printf("Olá, sou Rafael Fontenele,<b r)");
 
-printf("OFui um autodidata em HTML, CSS, PHP e MySQL lá nos antigos anos de 2005, acabei abrindo uma empresa no meio do caminho e me distanciei da 'programação'<br>");
+printf("OFui um autodidata em HTML, CSS, PHP e MySQL lá nos antigos anos de 2005, acabei abrindo uma empresa no meio do caminho e me distanciei da 'programação'<b r)");
 
 echo "Retorno agora para me atualizar e me tornar um Dev";
 
