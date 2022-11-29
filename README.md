@@ -22,7 +22,7 @@ Então agora, em 2022, retorno a minha área de paixão, a programação, com ob
 
 ## Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](www.linkedin.com/in/rnf-rafael-fontenele
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](https://www.linkedin.com/in/rnf-rafael-fontenele
 )
 
 
