@@ -1,8 +1,7 @@
-printf("Olá, sou Rafael Fontenele,<b r)");
+### Olá, sou Rafael Fontenele,
 
-printf("Fui um autodidata, usando foruns e google para aprender HTML, CSS, PHP (a linguagem por qual me apaixonei) e MySQL lá nos antigos anos de 2005. Nessa época iniciei uma ideia junto com um amigo/sócio Designer, a in'Artes, durou pouco mais de 1 ano, fizemos alguns trabalhos, mas no final cada um seguiu um caminho diferente, acabei abrindo uma empresa de confecção atacado (B2B) e me distanciei da 'programação'<b r)");
+Fui um autodidata, usando foruns e google para aprender HTML, CSS, PHP (a linguagem por qual me apaixonei) e MySQL lá nos antigos anos de 2005. Nessa época iniciei uma ideia junto com um amigo/sócio Designer, a in'Artes, durou pouco mais de 1 ano, fizemos alguns trabalhos, mas no final cada um seguiu um caminho diferente, acabei abrindo uma empresa de confecção atacado (B2B) e me distanciei da 'programação'
 
-echo "Agora em 2022 retorno para casa, a programação, com objetivo de ter amplo conhecimento em todas os formatos, mas focado e aprimorado no back-end";
 
 <!---
 rnfrafael/rnfrafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
