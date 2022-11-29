@@ -10,7 +10,17 @@ Então agora, em 2022, retorno a minha área de paixão, a programação, com ob
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# Contatos
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnfrafael&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Projeto JornadaDev - EBAC
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=rnfrafael.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Primeiro Projeto - 2014-15
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=Sistema-Agendamento-Consultas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin'>](www.linkedin.com/in/rnf-rafael-fontenele
 )
