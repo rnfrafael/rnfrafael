@@ -1,8 +1,6 @@
 ### Olá, sou Rafael Fontenele,
 
-Fui um curioso em programação lá pelos anos 2005, usando foruns e google para aprender HTML, CSS, PHP (a linguagem por qual me apaixonei) e MySQL. Nessa época iniciei uma ideia junto com um amigo/sócio Designer, a in'Artes, durou pouco mais de 1 ano, fizemos alguns trabalhos, mas no final cada um seguiu um caminho diferente, acabei abrindo uma empresa de confecção atacado (B2B) e me distanciei da 'programação'.<br>
-Tive alguns pontos de retorno fazendo alguns cursos na Alura em 2015 e criando um pequeno projeto de agendamento de consultas, mas acabei não levando pra frente e me mantive na empresa de confecção.
-Agora retornei pra essa area completamente focado, visando corrigir alguns buracos que senti para empresas de confecção e não apenas isso, a ideia é utilizar tudo que tiver de tecnologia a favor da resolução de problemas.
+Sempre envolvido com tecnologia, desde 2006 ao criar a in'Artes, junto de um amigo fizemos alguns trabalhos, sites, pequenos sistemas. Atualmente focado no BackEnd, mas com 'forks' em Front, Mobile e DevOps. 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
