@@ -1,6 +1,7 @@
 ### Olá, sou Rafael Fontenele,
 
-Sempre envolvido com tecnologia, desde 2006 ao criar a in'Artes, junto de um amigo fizemos alguns trabalhos, sites, pequenos sistemas. Atualmente focado no BackEnd, mas com 'forks' em Front, Mobile e DevOps. 
+Sempre estive envolvido com tecnologia, desde 2006 ao criar a in'Artes junto de um amigo para trabalhar criando pequens sistemas web com HTML/CSS/PHP/MySQL.
+Atualmente focado em server um FullStack com foco no Back utilizando principalmente a stack JS com Node/Nest, React/Next e React Native. 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
