@@ -36,11 +36,11 @@ Atualmente focado em server um FullStack com foco no Back utilizando principalme
 
 #### Projeto Controle de Ponto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=Sistema-Ponto)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=Sistema-Ponto)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/rnfrafael/Sistema-Ponto))
 
 #### Primeiro Projeto - 2014-15
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=Sistema-Agendamento-Consultas)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rnfrafael&repo=Sistema-Agendamento-Consultas)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/rnfrafael/Sistema-Agendamento-Consultas))
 
 ## Contatos
 
